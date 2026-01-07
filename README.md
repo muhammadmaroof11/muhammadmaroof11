@@ -30,13 +30,5 @@ I am a CS student and Content Lead at GDGoC, passionate about building scalable 
 
 ---
 
-### 📈 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadmaroof11&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmaroof11&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
----
-
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mmaroof11/)
