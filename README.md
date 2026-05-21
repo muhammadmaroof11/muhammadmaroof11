@@ -7,12 +7,10 @@ I am a CS student and Content Lead at GDGoC, passionate about building high-fide
 
 ### 🛠 Tech Stack
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
-  <!-- New Additions -->
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
   <img src="https://img.shields.io/badge/Pinia-FFD133?style=for-the-badge&logo=pinia&logoColor=black" />
-  <!-- Original Stack -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -20,6 +18,9 @@ I am a CS student and Content Lead at GDGoC, passionate about building high-fide
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </div>
 
 ---
@@ -36,11 +37,12 @@ I am a CS student and Content Lead at GDGoC, passionate about building high-fide
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **[Poly-Portfolio](https://github.com/muhammadmaroof11/portfolio-js)** | Vue 3, GSAP, Pinia | A multi-state architectural exhibit featuring dynamic design style switching and high-fidelity animations. |
+| **[Portfolio](https://github.com/muhammadmaroof11/portfolio-js)** | Vue 3, GSAP, Pinia | A multi-state architectural exhibit featuring dynamic design style switching and high-fidelity animations. |
 | **[CryptoAnalyzer](https://crypto-analyze-proj.netlify.app/)** | MERN, Chart.js, JWT | Real-time DeFi dashboard with live market data, glassmorphism UI, and portfolio simulation. |
-| **[Sairay.pk](http://sairay.pk)** | React, Python (Flask) | E-commerce platform for solar energy solutions with dynamic inventory management. |
+| **[Sairay.pk](http://sairay.pk)** | React, Python (Flask), MongoDB | E-commerce platform for healthcare products with dynamic inventory management. |
 | **[Mentairo](https://github.com/muhammadmaroof11/Mentairo)** | Flutter, Firebase, Agora | "Uber for Mentorship" - Mobile app featuring video calls, paid sessions, and FYP collaboration. |
-
+| **[FoodLink](https://foodlinkglobal.netlify.app/)** | Vue 3, GSAP, Pinia, Supabase, Ionic Framework | E-commerce platform for solar energy solutions with dynamic inventory management. |
+| **[BytelyAI](https://bytely.ai/)** | React, Vite, GSAP, Framer Motion, Tailwind CSS | AI agent SaaS platform showcasing scroll-driven product experiences with animated agent showcases and dynamic content sections. |
 ---
 
 ### 📫 Connect with Me
