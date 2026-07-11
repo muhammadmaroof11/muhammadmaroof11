@@ -37,7 +37,7 @@ I am a CS student and Content Lead at GDGoC, passionate about building high-fide
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **[Portfolio](https://github.com/muhammadmaroof11/portfolio-js)** | Vue 3, GSAP, Pinia | A multi-state architectural exhibit featuring dynamic design style switching and high-fidelity animations. |
+| **[Portfolio](https://github.com/muhammadmaroof11/portfolio)** | Vue 3, GSAP, Pinia | A multi-state architectural exhibit featuring dynamic design style switching and high-fidelity animations. |
 | **[CryptoAnalyzer](https://crypto-analyze-proj.netlify.app/)** | MERN, Chart.js, JWT | Real-time DeFi dashboard with live market data, glassmorphism UI, and portfolio simulation. |
 | **[Sairay.pk](http://sairay.pk)** | React, Python (Flask), MongoDB | E-commerce platform for healthcare products with dynamic inventory management. |
 | **[Mentairo](https://github.com/muhammadmaroof11/Mentairo)** | Flutter, Firebase, Agora | "Uber for Mentorship" - Mobile app featuring video calls, paid sessions, and FYP collaboration. |
