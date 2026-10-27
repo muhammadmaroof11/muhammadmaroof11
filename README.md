@@ -3,11 +3,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,40:18181b,100:0284c7&height=220&section=header&text=Muhammad%20Maroof&fontSize=42&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Applied%20AI%20Engineer&descFontSize=16&descAlignY=58&fontColor=ffffff&descColor=38bdf8" width="100%" alt="Header" />
 
 <p align="center">
-  <a href="https://devmaroof.netlify.app"><img src="https://img.shields.io/badge/⚡_Portfolio-devmaroof.netlify.app-000000?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio" /></a>
+  <a href="https://devmaroof.netlify.app"><img src="https://img.shields.io/badge/Portfolio-devmaroof.netlify.app-000000?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio" /></a>
   &nbsp;
-  <a href="https://linkedin.com/in/mmaroof11"><img src="https://img.shields.io/badge/💼_LinkedIn-mmaroof11-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/mmaroof11"><img src="https://img.shields.io/badge/LinkedIn-mmaroof11-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="mailto:mmaroof341@gmail.com"><img src="https://img.shields.io/badge/📫_Email-mmaroof341@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:mmaroof341@gmail.com"><img src="https://img.shields.io/badge/Email-mmaroof341@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
@@ -19,12 +19,12 @@
 
 ---
 
-### 🛠️ Core Engineering Stack
+### ⚡ Core Engineering Stack
 
 * **Frontend & Web:** Next.js (App Router), React 19, Vue 3, TypeScript, JavaScript (ES6+), Tailwind CSS, GSAP
 * **Backend & APIs:** Python (FastAPI, Django), Node.js (Express), RESTful APIs, WebSockets
 * **AI & Agentic Systems:** Model Context Protocol (MCP), LangGraph, LangChain, RAG (pgvector, ChromaDB), Gemini & Groq APIs
-* **Databases & DevOps:** PostgreSQL, Supabase, MongoDB, Redis, Docker, Git/GitHub, Linux
+* **Databases & DevOps:** PostgreSQL, Supabase, MongoDB, Redis, Docker, Git/GitHub, Linux CLI
 
 ---
 
@@ -33,17 +33,17 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎙️ <a href="https://github.com/muhammadmaroof11/calling-agent">Voxora — AI Voice Calling Agent</a></h3>
-      <p>Studio-grade conversational voice platform inspired by ElevenLabs. Features sub-second turn-based audio loops, 36-bar dynamic Gaussian visualizer, and ElevenLabs-style persona controls.</p>
+      <h3>🎙️ <a href="https://github.com/muhammadmaroof11/A.L.F.I.E">A.L.F.I.E — Voice AI Engine</a></h3>
+      <p>Sovereign enterprise voice AI orchestration platform integrating LiveKit WebRTC for bidirectional audio, dual-engine speech mesh (Groq Whisper, Gemini Live, Cartesia), and Vue 3 Pinia admin portal.</p>
       <p>
-        <code>FastAPI</code> <code>React 19</code> <code>Groq Whisper</code> <code>Gemini Flash</code> <code>Edge-TTS</code>
+        <code>FastAPI</code> <code>LiveKit WebRTC</code> <code>Groq Whisper</code> <code>Gemini Live</code> <code>Redis</code> <code>PostgreSQL</code>
       </p>
       <p>
-        <a href="https://github.com/muhammadmaroof11/calling-agent"><b>View Source →</b></a>
+        <a href="https://github.com/muhammadmaroof11/A.L.F.I.E"><b>View Source →</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>💬 <a href="https://github.com/muhammadmaroof11/nexus-chat">NexusChat — AI Streaming Platform</a></h3>
+      <h3>⚡ <a href="https://github.com/muhammadmaroof11/nexus-chat">NexusChat — AI Streaming Platform</a></h3>
       <p>High-performance AI chat system with real-time SSE token-by-token streaming, glassmorphic dark UI, KaTeX LaTeX math, dark Prism syntax highlighting, and live persona presets.</p>
       <p>
         <code>React 19</code> <code>FastAPI</code> <code>SSE Starlette</code> <code>Google GenAI</code> <code>Framer Motion</code>
@@ -55,6 +55,16 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/muhammadmaroof11/deanchor">DeAnchor — LLM Anti-Bias CLI</a></h3>
+      <p>Automated developer CLI framework designed to break LLM contextual anchoring bias, enforcing first-principles engineering through persistent cognitive ledgers and git hooks.</p>
+      <p>
+        <code>Python 3</code> <code>Git Hooks</code> <code>Bash</code> <code>CLI Architecture</code>
+      </p>
+      <p>
+        <a href="https://github.com/muhammadmaroof11/deanchor"><b>View Source →</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>📈 <a href="https://github.com/muhammadmaroof11/Crypto-Analyzer-MERN">DeFi Analyzer Terminal</a></h3>
       <p>Full-stack cryptocurrency command center featuring CoinGecko live market data, dynamic Chart.js asset allocation, Fear & Greed index, and serverless Netlify Functions.</p>
       <p>
@@ -63,16 +73,6 @@
       <p>
         <a href="https://crypto-analyze-proj.netlify.app/"><b>Live Demo ↗</b></a> &nbsp;|&nbsp;
         <a href="https://github.com/muhammadmaroof11/Crypto-Analyzer-MERN"><b>View Source →</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/muhammadmaroof11/deanchor">DeAnchor — LLM Anti-Bias CLI</a></h3>
-      <p>Automated developer CLI framework designed to break LLM contextual anchoring bias, enforcing first-principles engineering through persistent cognitive ledgers and git hooks.</p>
-      <p>
-        <code>Python 3</code> <code>Git Hooks</code> <code>Bash</code> <code>CLI Architecture</code>
-      </p>
-      <p>
-        <a href="https://github.com/muhammadmaroof11/deanchor"><b>View Source →</b></a>
       </p>
     </td>
   </tr>
